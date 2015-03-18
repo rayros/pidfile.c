@@ -1,0 +1,10 @@
+{
+  "name": "pidfile",
+  "version": "0.1.0",
+  "repo": "rayros/pidfile.c",
+  "src": [
+    "pidfile.c",
+    "pidfile.h"
+  ],
+  "dependencies": { }
+}
